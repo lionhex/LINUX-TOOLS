@@ -12,7 +12,9 @@ detach and logout (quick exit)	C-a D D
 exit screen	C-a \ Exit all of the programs in screen. (not recommended)
 force-exit screen	C-a C-\ (not recommended)
 getting out of the screen session	exit
+-----------------------------------------------------------------------------------------------------------
 Window Management
+-----------------
 create new window	C-a c
 change to last-visited active window	C-a C-a (commonly used to flip-flop between two windows)
 change to window by number	C-a <number> (only for windows 0 to 9)
@@ -25,9 +27,11 @@ close current window	Close all applications in the current window (including she
 kill current window	C-a k (not recommended)
 kill all windows	C-a \ (not recommended)
 rename current window	C-a A
-Split screen
+
+Split screen -----------------------------------------------------------------------------------------------
 split display horizontally	C-a S
 split display vertically	C-a | or C-a V (for the vanilla vertical screen patch)
+------------------------------------------------------------------------------------------------------------
 jump to next display region	C-a tab
 remove current region	C-a X
 remove all regions but the current one	C-a Q
