@@ -13,3 +13,5 @@ Terminal:
 - Screen
 - tmux
 ------------------------------------
+Scanner:
+- Nmap
